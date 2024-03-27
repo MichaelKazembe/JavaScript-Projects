@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#count {
+    font-size: 8em;
+    margin: 0.5em;
+}
+
+button {
+    font-size: 1.5em;
+    margin: 0.5em;
+    padding: 0.5em 1em;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#reset-btn {
+    background-color: red;
+}
+
+#increase-btn {
+    background-color: green;
+}
+
+#decrease-btn {
+    background-color: blue;
+}
+
+h1 {
+    color: rgb(81, 107, 107);
+}
+
